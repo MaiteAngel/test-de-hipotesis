@@ -1,4 +1,7 @@
-#Test de Hipotesis 
-## Materia: Probabilidad y Estadística(Computación)
+# Test de Hipotesis 
 
-Link a la clase: https://angelmaitelucia.shinyapps.io/TestDeHipotesis/
+Clase confeccionada para la materia Probabilidad y Estadística(Computación). FCEN, UBA.
+
+
+
+Link : https://angelmaitelucia.shinyapps.io/TestDeHipotesis/
